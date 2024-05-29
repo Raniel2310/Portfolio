@@ -1,9 +1,9 @@
-# For Live Demo that i use visit:
+# For Live Demo that i used visit:
 
 ## [Demo Link](https://themewagon.github.io/nitro2/) 🔗
 
 # For more awesome templates to explore available themes, templates, and plugins please visit:
-## [Demo Link]([[https://dopefolio.netlify.app](https://colorlib.com/wp/templates/)](https://themewagon.github.io/nitro2/)) 🔗
+## [Demo Link](https://colorlib.com/wp/templates/) 🔗
 
 <br/>
 
@@ -43,8 +43,6 @@ Removing copyright information without the license will result in suspension of 
 - **Fonts** 🚀
 
 ---
-
-----
 
 <br/>
 

@@ -1,9 +1,9 @@
-# For Live Demo that i used visit:
+# For Live Demo that i used please visit:
 
-## [Demo Link](https://themewagon.github.io/nitro2/) 🔗
+## [Demo Link](https://themewagon.github.io/nitro2) 🔗
 
 # For more awesome templates to explore available themes, templates, and plugins please visit:
-## [Demo Link](https://colorlib.com/wp/templates/) 🔗
+## [Demo Link](https://colorlib.com/wp/templates) 🔗
 
 <br/>
 

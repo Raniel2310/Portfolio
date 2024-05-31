@@ -3,7 +3,8 @@
 ## [Demo Link](https://themewagon.github.io/nitro2) 🔗
 
 <div align="center">
-<a href="https://postimg.cc/Hcn2Spjk" target="_blank"><img src="https://i.postimg.cc/4dbSxygV/pic1.png" alt="pic1"/></a><br/><br/>
+<a href="https://postimg.cc/mcp21MXk" target="_blank"><img src="https://i.postimg.cc/mcp21MXk/pic1.png" alt="pic1"/></a><br/><br/>
+
   <br>
 </div>
 

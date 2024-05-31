@@ -3,8 +3,7 @@
 ## [Demo Link](https://themewagon.github.io/nitro2) 🔗
 
 <div align="center">
-<a href="https://postimg.cc/mcp21MXk" target="_blank"><img src="https://i.postimg.cc/mcp21MXk/pic1.png" alt="pic1"/></a><br/><br/>
-
+<a href="https://postimg.cc/mcp21MXk" target="_blank"><img src="https://i.postimg.cc/KzxKVDtP/pic1.png" alt="pic1"/></a> <a href="https://postimg.cc/xXt9BMS5" target="_blank"><img src="https://i.postimg.cc/g0PrXHSC/pic10.png" alt="pic10"/></a> <a href="https://postimg.cc/MMcZ7TND" target="_blank"><img src="https://i.postimg.cc/W38DPq7Q/pic2.png" alt="pic2"/></a> <a href="https://postimg.cc/F1Ls1YjF" target="_blank"><img src="https://i.postimg.cc/448KLtyc/pic3.png" alt="pic3"/></a> <a href="https://postimg.cc/cr7xMP9V" target="_blank"><img src="https://i.postimg.cc/pX4mxHDX/pic4.png" alt="pic4"/></a> <a href="https://postimg.cc/ZCzYNJc8" target="_blank"><img src="https://i.postimg.cc/xTcXWCN4/pic5.png" alt="pic5"/></a> <a href="https://postimg.cc/34P8nhHH" target="_blank"><img src="https://i.postimg.cc/gj0xccSr/pic6.png" alt="pic6"/></a> <a href="https://postimg.cc/rRx8HH8R" target="_blank"><img src="https://i.postimg.cc/3NbdkMV1/pic7.png" alt="pic7"/></a> <a href="https://postimg.cc/f3yMsyzN" target="_blank"><img src="https://i.postimg.cc/KYrjn3CR/pic8.png" alt="pic8"/></a> <a href="https://postimg.cc/NKggNbZL" target="_blank"><img src="https://i.postimg.cc/8zvjz0Hd/pic9.png" alt="pic9"/></a> 
   <br>
 </div>
 

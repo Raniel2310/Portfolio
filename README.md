@@ -3,12 +3,13 @@
 ## [Demo Link](https://themewagon.github.io/nitro2) 🔗
 
 <div align="center">
-  <img src="https://themewagon.github.io/nitro2" alt="Dopefolio Demo" width="100%" />
+  <img src="https://postimg.cc/gallery/svwxpZ7" alt="Dopefolio Demo" width="100%" />
   <br>
 </div>
 
 <br/>
 <br/>
+
 
 # For more awesome templates to explore available themes, templates, and plugins please visit:
 ## [Demo Link](https://colorlib.com/wp/templates) 🔗

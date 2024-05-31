@@ -3,7 +3,7 @@
 ## [Demo Link](https://themewagon.github.io/nitro2) 🔗
 
 <div align="center">
-  <img src="https://postimg.cc/gallery/svwxpZ7" alt="Dopefolio Demo" width="100%" />
+<a href="https://postimg.cc/Hcn2Spjk" target="_blank"><img src="https://i.postimg.cc/4dbSxygV/pic1.png" alt="pic1"/></a><br/><br/>
   <br>
 </div>
 
